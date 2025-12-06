@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482671483450",
+    "project_id": "codecelixtaskmanager-e2dcf",
+    "storage_bucket": "codecelixtaskmanager-e2dcf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482671483450:android:3f31ae0b7c62970dd2b303",
+        "android_client_info": {
+          "package_name": "com.example.codecelix_task_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482671483450-4so4gshs4nmkh11c0uk290tef9uev7or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codecelix_task_manager",
+            "certificate_hash": "48512985d05ced687a44fdff0871aba544a4d9e5"
+          }
+        },
+        {
+          "client_id": "482671483450-n87d411ssgp3p26sc58g5425t84molnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMcwkfbXnjhWCguVPJ-PoDDcagdLvhtDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482671483450-n87d411ssgp3p26sc58g5425t84molnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
